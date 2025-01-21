@@ -1,0 +1,48 @@
+install  Git GUI here 
+
+than got to githup .. than take the link of  HTTPS
+
+
+
+
+Go to he Make the  file chouse the file  and  past the Repositories link the HTTTPS link to CMD -- command --git clone --- 
+
+1} git clone link -----
+2} comman line --> cd goto in file 
+3} git add  . ---- all hte file Repositories in  -- we can put also the file name  
+4} git status -- to check the file load 
+5} git commit -m " message"
+6} it config-- global user.email"tou@example";
+7} it config-- global user.name"name";
+8} git status;
+9} git PUSH -U origin mian
+
+.--------------------------------------------
+cmd commands: 
+
+1.git config --global user.email "xyz123@gmail.com"
+2.git config --global user.name "xyz"
+
+1.git clone "link"
+2.cd (name of repository)
+3.git add .
+4.git status
+5.git commit -m "update1"
+6.git commit -m "first update"
+7.git push -u origin main
+
+fatal: destination path 'ArcherCodify2025' already exists and is not an empty directory
+
+--------------------------------------------------------
+git branch  pgw0808
+git branch  git checkout name
+git push -u origin name
+
+
+
+
+
+
+
+// ST 
+ MAKE THE MARKDOWN FILE 

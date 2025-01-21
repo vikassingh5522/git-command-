@@ -1,0 +1,20 @@
+Step 1 : one time setting:
+1. git config --global user.email "abc@email.com" 
+2.  git config --global user.name "git username" 
+
+Step 2:
+	git clone https_link
+
+Step 3: Following regular step on every push
+1. git branch branch_name
+2. git branch
+3. git checkout branch_name
+4. git add .
+5. git commit -m "comment"
+6. git push -u origin branch_name
+
+Step 4: Go to GitHub -> login -> compare and merge to main
+
+
+git branch --show-current
+
